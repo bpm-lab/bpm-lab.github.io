@@ -1,5 +1,6 @@
 Title: Educama
 Date: 2017-09-29 4:00 pm
+Category: Educama
 Slug: educama-intro
 
 #Educama - Open Source Showcases for Case and Business Process Management 

@@ -1,6 +1,6 @@
-Title: New Student's Projects
+Title: New Student Projects
 Date: 2017-09-29 16:00
-Category: Projects
+Category: Student Projects
 Slug: new-projects-ws1718
 
 #We offer 2 new projects for students in the winter term 
