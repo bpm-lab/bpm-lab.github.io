@@ -1,9 +1,9 @@
 language: python
 python:
-  - "3.5"
+- '3.5'
 sudo: required
 services:
-  - docker
+- docker
 branches:
   only:
   - sources
@@ -13,3 +13,6 @@ install:
 - git clone https://github.com/getpelican/pelican-plugins
 script:
 - make publish github
+env:
+  global:
+    secure: fy4rzldoh7QXu7nyDd56+k29sPEU7zDe1GTL9K9XEPo6v8MKRJjfd14rsmKR01jE9C90xO+p/jW8JcFE3F6rGZp6lN1aK9CAeTC3a29RxpyRcFDX8lEE2BIl4mqZdmRLENTzs6q3tFoLiPwb48GcubkBnZOZXExBQ58lKZrjf71Tjyv/Ppzoixvb/vXBuY15XBjSMY9zeCAuuHoZ4HdkQXRXf2EF1BwO4vhW4B5GB8jd9KPKyDian+pxcvyYwwNcHgkmRuobZwtUlR0o5CRp5HcoIVMb66rBbjeFG7cpzAJAtDzjIUKp3LlZxuc6A7KG8iHCD2jx9vwbBp5Of6sgfG/DblbkdBVGu+zP8JyePCa6IWlHhKiTpFXUH8+TkuM9Yqgu2QDNRDp6JbX00YHDEWzEBdlD4CDFY9Akx5I8N1KtK9IrWcnI3nys8iuNvGus3+oF8GmlJXUi4AxIfbUUTGHH/zUBmp7XjZChIPP9q1DfAff1Ondky9pLjuVh39/cipQh9FTGLjGWKTkdnF/3yL7nRKpgezw0PZo3Hxt4Jm8pm671OLBJNtd3eCLnRHT3tauenXWCXBkG5dOgLTdlkA9uOXPRzITlzs6+CZjEIlSodOHavFcZS3HeisRHuU1iC+Q+cSh4CN3cJrYUTdLtN90Dodp8sCW0trZRT7wRI8c=
