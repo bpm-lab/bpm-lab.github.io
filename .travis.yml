@@ -11,6 +11,7 @@ env:
   global:
     secure: "fbe8893ae8af39bbbc3305ceaa16c1d337199e3e"
 install:
+- pip install pelican markdown
 - pip install ghp-import
 - git clone https://github.com/getpelican/pelican-plugins
 script:
