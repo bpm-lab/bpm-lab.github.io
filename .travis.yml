@@ -1,0 +1,17 @@
+language: python
+python:
+  - "3.5"
+sudo: required
+services:
+  - docker
+branches:
+  only:
+  - sources
+env:
+  global:
+    secure: "fbe8893ae8af39bbbc3305ceaa16c1d337199e3e"
+install:
+- pip install ghp-import
+- git clone https://github.com/getpelican/pelican-plugins
+script:
+- make publish github
