@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Martin Schmollinger'
 SITENAME = u'Business Process Management Lab'
 SITEURL = ''
+THEME = "gum"
 
 PATH = 'content'
 
