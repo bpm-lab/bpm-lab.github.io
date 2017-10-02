@@ -14,7 +14,7 @@ install:
 - git clone https://github.com/getpelican/pelican-themes.git
 - pelican-themes -i pelican-themes/gum
 script:
-- pelican themes -l
+- pelican-themes -l
 - make publish github
 env:
   global:
