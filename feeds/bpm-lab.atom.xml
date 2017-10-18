@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Business Process Management Lab - BPM Lab</title><link href="/" rel="alternate"></link><link href="/feeds/bpm-lab.atom.xml" rel="self"></link><id>/</id><updated>2017-09-28T11:00:00+02:00</updated><entry><title>BPM Lab @ Reutlingen University</title><link href="/bpm-lab-intro.html" rel="alternate"></link><published>2017-09-28T11:00:00+02:00</published><updated>2017-09-28T11:00:00+02:00</updated><author><name>Martin Schmollinger</name></author><id>tag:None,2017-09-28:/bpm-lab-intro.html</id><summary type="html">&lt;h1&gt;Development, Presentation and Visualization of BPM Showcases&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Development of Open Source BPM showcases with the OMG standards BPMN, CMMN and DMN as Cloud-native applications.&lt;/li&gt;
+&lt;li&gt;Didactic preparation of the developed showcases for lectures with respect to the views of different stakeholders (manager, business analysts, software engineer, process participant).&lt;/li&gt;
+&lt;li&gt;Design, setup and …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Development, Presentation and Visualization of BPM Showcases&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Development of Open Source BPM showcases with the OMG standards BPMN, CMMN and DMN as Cloud-native applications.&lt;/li&gt;
+&lt;li&gt;Didactic preparation of the developed showcases for lectures with respect to the views of different stakeholders (manager, business analysts, software engineer, process participant).&lt;/li&gt;
+&lt;li&gt;Design, setup and installation of an appropriate lab infrastructure for the show case presentation.&lt;/li&gt;
+&lt;li&gt;Design, setup and installation of an appropriate lab infrastructure for student groups developing the show cases.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="Prototypic visualization of a BPM showcase in the BPM lab" src="/images/bpmlab.jpg" title="Prototypic BPM lab"&gt;&lt;/p&gt;</content></entry></feed>
